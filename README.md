@@ -1,5 +1,6 @@
 # Cosine_Jaccard_similarity_calculator without cosine library.
 Goal: The project's aim was to create a user-friendly tool for calculating text similarity between two pieces of text, making it a valuable asset for content analysis and information retrieval tasks.
+
 Key Features:
 Custom-built cosine similarity calculation function.
 Jaccard similarity calculation.
